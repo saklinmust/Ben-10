@@ -1,0 +1,6 @@
+{
+  "name": "Ben 10 Universe",
+  "description": "An immersive, responsive high-tech Omnitrix portal showcasing Ben Tennyson's story, alien transformations, custom stat dials, an interactive gallery, and contact systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
